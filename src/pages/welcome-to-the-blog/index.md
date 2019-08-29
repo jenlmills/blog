@@ -1,6 +1,6 @@
 ---
-title: Welcome to my new Blog!
-date: "2019-08-28"
+title: Welcome to my new blog, enjoy!
+date: "8/28/2019"
 featuredImage: './beachindianshores.jpg'
 ---
 

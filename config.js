@@ -1,17 +1,17 @@
 module.exports = {
   title: 'JLM', // Required
   author: 'Jennifer Laughter Mills', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  description: 'Team Lead and Senior Developer',
+  primaryColor: '#5e6163', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://jenniferlaughter.com',
+    website: 'http://jenniferlaughter.com',
     github: 'https://github.com/jenlmills',
     twitter: 'https://twitter.com/channelmills',
     linkedin: 'https://www.linkedin.com/in/jenlmills',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://jenniferlaughter.com/',
+  siteUrl: 'http://jenniferlaughter.com/',
 };
