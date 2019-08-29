@@ -5,7 +5,7 @@ module.exports = {
   primaryColor: '#5e6163', // Required
   showHeaderImage: true,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 3, // Required
   social: {
     website: 'http://jenniferlaughter.com',
     github: 'https://github.com/jenlmills',
