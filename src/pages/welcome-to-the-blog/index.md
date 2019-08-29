@@ -1,9 +1,9 @@
 ---
-title: Welcome to my new blog, enjoy!
+title: Welcome and Enjoy!
 date: "2019-08-28"
 featuredImage: './beachindianshores.jpg'
 ---
-
+Welcome to my new blog, hope you enjoy the message, as well as, this early morning, picture perfect photo taken in Indian Shores, FL!
 <!-- end -->
 
 ## Lorem ipsum dolor sit amet, consectetur adipiscing elit
