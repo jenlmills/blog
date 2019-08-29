@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jenns Blog
+title: Welcome to my new Blog!
 date: "2019-08-28"
 featuredImage: './beachindianshores.jpg'
 ---
