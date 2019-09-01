@@ -15,9 +15,10 @@ function Header({ config }) {
   return (
     <Container>
       <Wrapper>
+        /* jen commented out - remove <> image
         {userConfig.showHeaderImage && (
           <HeaderImage/>
-        )}
+        )} */
         <H1><Link to="/">{author}</Link></H1>
         <P>{description}</P>
         {social &&
