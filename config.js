@@ -3,7 +3,7 @@ module.exports = {
   author: 'Jennifer Laughter Mills', // Required
   description: 'Team Lead, Tech Lead, Senior Developer',
   primaryColor: '#5e6163', // Required
-  showHeaderImage: true,
+  showHeaderImage: false,
   showShareButtons: true,
   postsPerPage: 3, // Required
   social: {
