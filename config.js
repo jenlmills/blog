@@ -1,7 +1,7 @@
 module.exports = {
   title: 'JLM', // Required
   author: 'Jennifer Laughter Mills', // Required
-  description: 'Team Lead and Senior Developer',
+  description: 'Team Lead, Tech Lead, Senior Developer',
   primaryColor: '#5e6163', // Required
   showHeaderImage: true,
   showShareButtons: true,
